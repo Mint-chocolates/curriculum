@@ -1,0 +1,49 @@
+@media screen and (max-width: 767px) {
+  .content{
+    max-width: 300px; 
+    width: 100%; 
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .item1{
+    max-width: 100px; 
+    width: 100%; 
+  }
+
+  .item2{
+    max-width: 75px; 
+    width: 100%; 
+  }
+
+  .item3{
+    max-width: 125px; 
+    width: 100%; 
+  }
+
+  .item4{
+    max-width:125px; 
+    width: 100%; 
+  }
+
+  .item5{
+    max-width: 200px; 
+    width: 100%; 
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .content{
+    max-width: 150px; 
+    width: 100%; 
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .items * {
+    float: none;
+    max-width: 150px; 
+    width: 100%; 
+  }
+
+}
