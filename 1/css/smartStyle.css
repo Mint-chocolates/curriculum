@@ -1,0 +1,31 @@
+@media screen and (max-width: 479px) {
+  .container {
+    width: 200px;
+  }
+
+  .item1 {
+    height: 200px;
+    transform: rotate(90deg) 
+  }
+
+  .item1-1 {
+    margin: 70px 20px;
+  }
+  
+  .item2 {
+    width: 100%;
+  }
+
+  .item3 {
+    width: 100%;
+    height: auto;
+  }
+
+  .item3-1 {
+    margin: 20px 30px;
+  }
+
+  .item3-1-1 {
+    width: 140px;
+  }
+}
